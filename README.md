@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm SIBIARASU D</h1>
+<h1 align="center">Hi 👋, I'm SIBI D</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **BLOG WEBSITE**
+- 🌱 I’m currently learning **Dot Net**
 
-- 🌱 I’m currently learning **REACT + VITE**
-
-- 💬 Ask me about **React, Cryptography**
+- 💬 Ask me about **React, MVC**
 
 - 📫 How to reach me **sibiarasud@gmail.com**
 
