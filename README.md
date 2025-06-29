@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SIBI D</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Dot Net**
+- 🌱 I’m currently working in **Dot Net**
 
-- 💬 Ask me about **React, MVC**
+- 💬 Ask me about **ANGULAR CLI, .NET FRAMEWORK, SQL SERVER**
 
 - 📫 How to reach me **sibiarasud@gmail.com**
 
