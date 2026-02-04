@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sibiarasu D
+# 👋 Hi, I'm Sibiarasu
 
-I'm a passionate **Dotnet Full Stack Developer** with experience in **C#, C, Typescript, and Rest APIs**. I love building beautiful, responsive, and performant applications. 🚀  
+I'm a passionate **Dotnet Full Stack Developer** with experience in **C#, C, Angular CLI, and Rest APIs**. I love building beautiful, responsive, and performant applications. 🚀  
 
 ---
 
